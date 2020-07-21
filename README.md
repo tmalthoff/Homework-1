@@ -1,1 +1,2 @@
 # Homework-1
+For this assignment we were tasked with making the code we were given more easily accessible for other coders.  I spaced out the multiple div sections, changed the header to its own unique section, as well as the footer.  I added alt attributes to the different images and created a section for the list we were given.  In the css I made everything I had previously changed linked to its new element and made sure everything continued to work.
